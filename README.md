@@ -1,4 +1,4 @@
-# CS3300 (Compiler Design) Assignments
+# CS3300 (Compiler Design) Project
 
 The brief topics for the 4 assignments were as follows
 1) Scanning and Parsing
